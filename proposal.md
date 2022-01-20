@@ -30,7 +30,7 @@ Mai Tran
   10. company name
 
 # If modeling, what will you predict as your target?
-- High-paying Data Scientist jobs require more years of experience and are from high-revenue companies
+- High-paying Data Scientist jobs require more years of experience, have higher company ratings, have longer post age (harder to fill the role), and require knowledge of both Julia and C++
 
 # How do you intend to meet the tools requirement of the project?
 - BeautifulSoup: data scraping
