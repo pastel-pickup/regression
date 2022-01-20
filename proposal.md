@@ -42,4 +42,4 @@ Mai Tran
 - Might use MongoDB or Amazon RDS for data storage
 
 # What would a minimum viable product (MVP) look like for this project?
-- I would have scraped all the necessary data and put them in a Pandas data frame
+- I would have scraped all the necessary data and put them in a Pandas data frame with at least one visualization
