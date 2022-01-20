@@ -2,7 +2,7 @@
 Mai Tran
 
 # What is the framing question of your analysis, or the purpose of the model/system you plan to build?
-- To perform accurate salary analysis and prediction for Data Scientist job posts without published salary information in NYC for the year 2022. 
+- To perform accurate salary analysis and prediction for Data Scientist job posts in NYC for the year 2022. 
 
 # Who benefits from exploring this question or building this model/system?
 - Job seekers such as recent graduates, career changers, part-time or gig workers
@@ -18,11 +18,16 @@ Mai Tran
 
 # What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
 - An individual sample is a Data Scientist job post with the following features:
-  1. salary
-  2. number of benefits
-  3. years of experience
-  4. education
-  5. required skills
+  1. salary (numeric)
+  2. company employee rating (numeric)
+  3. years of experience (numeric)
+  4. post age (numeric)
+  5. today's date
+  6. job title
+  7. location
+  8. education
+  9. required skills: (Julia + C++) vs (Python + SQL)
+  10. company name
 
 # If modeling, what will you predict as your target?
 - High-paying Data Scientist jobs require more years of experience and are from high-revenue companies
