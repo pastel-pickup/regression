@@ -29,10 +29,13 @@ Therefore, it was found both Lasso and Elastic Net Regression models yielded the
 4) Matplotlib and Seaborn for plotting
 
 # Communication
-<img width="563" alt="DS_sal_LARS" src="https://user-images.githubusercontent.com/67651332/151572462-70429e1e-cf9d-4f7c-97c5-8fb9011fa7df.PNG">
 LARS GRAPH FOR DATA SCIENTIST SALARIES
+<img width="563" alt="DS_sal_LARS" src="https://user-images.githubusercontent.com/67651332/151572462-70429e1e-cf9d-4f7c-97c5-8fb9011fa7df.PNG">
 
-![DA_sal](https://user-images.githubusercontent.com/67651332/151572815-cf865f8c-5233-486a-8fb8-e29f401676cd.png)
-![DE_sal](https://user-images.githubusercontent.com/67651332/151572817-23c9c483-3202-47d1-a705-690a89615c6f.png)
+![DS_sal](https://user-images.githubusercontent.com/67651332/151573054-f5716ca5-565d-4926-b832-ec02fcc0d0df.png)
 ![ML_sal](https://user-images.githubusercontent.com/67651332/151572820-445d8762-0d36-45cf-bd18-5ba963d3a73a.png)
+![DE_sal](https://user-images.githubusercontent.com/67651332/151572817-23c9c483-3202-47d1-a705-690a89615c6f.png)
+![DA_sal](https://user-images.githubusercontent.com/67651332/151572815-cf865f8c-5233-486a-8fb8-e29f401676cd.png)
+
+
 
